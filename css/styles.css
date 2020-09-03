@@ -125,7 +125,7 @@ p {
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   font-weight: bolder;
-  width: 100px; 
+  width: 100px;
 }
 
 .pro {
@@ -137,7 +137,7 @@ p {
 }
 
 .skills {
-  margin-top: 100px;
+  margin: 100px 0 150px;
 }
 
 .second-skill-img {
